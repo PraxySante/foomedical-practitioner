@@ -8,8 +8,8 @@ export function SignInPage(): JSX.Element {
 
   return (
     <SignInForm
-      projectId="daae901c-c8d7-4246-9f24-486147b82224"
-      googleClientId="679052511930-s86ja7j6371gmdsmmgqrdoe1qmbr0aou.apps.googleusercontent.com"
+      projectId="34781761-e24d-4a1f-bb69-6f47c514a280"
+      googleClientId="830708485209-bhjagdl1ffqt2s1ch03tc2gt48eljpel.apps.googleusercontent.com"
       onSuccess={() => navigate('/')}
     >
       <Logo size={32} />
